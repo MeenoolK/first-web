@@ -12,6 +12,8 @@ h1{
     margin-left: 5%;
     padding-left: 2%;
 }
+
+
 .half-width img{
     width: 100%;
 }
@@ -21,6 +23,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .anc-button{
     text-decoration: none;
