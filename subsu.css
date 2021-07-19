@@ -8,6 +8,9 @@ h1{
 h2{
     font-size: 50px;
 }
+p{
+    color: dimgray;
+}
 .half-width{
     width: 40%;
     float: left;
@@ -34,4 +37,10 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: bold;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
