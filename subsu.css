@@ -3,10 +3,14 @@ body{
     font-family: 'Otomanopee One', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 h2{
-    font-size: 40px;
+    font-size: 30px;
+}
+
+.orange-highlight{
+    color: orange;
 }
 p{
     color: dimgray;
@@ -44,4 +48,20 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
+}
+.single-experience{
+   box-shadow: 10px 10px 40px gray; 
+   border-radius: 10px;
+   height: 80%;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+  
 }
