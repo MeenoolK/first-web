@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 h2{
-    font-size: 50px;
+    font-size: 40px;
 }
 p{
     color: dimgray;
@@ -26,9 +26,10 @@ p{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
+
 section{
-    height: 10px;
-    padding-bottom: 100px;
+    height: 500px;
+    padding-bottom: 150px;
 }
 .anc-button{
     text-decoration: none;
